@@ -1,0 +1,6 @@
+해야할 것
+따온 url에서 내용 및 날짜 가저와서 내용 토큰화
+(다른 파일의 함수 사용할 수 있는지 여부 검색)
+
+순서
+NewsAnalytics/TensorFlow/text_tokken.ipynb 토큰화
